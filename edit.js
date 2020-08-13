@@ -200,6 +200,7 @@ function save() {
     <meta name="description" content="מטפלת זוגית משפחתית מוסמכת ומדריכה מוסמכת להכשרת מטפלים">
     <meta name="keywords" content="אסתר גאמס esther gamms family therapist">
     <meta name="robots" content="index, follow">
+    <meta property="og:image" itemprop="image" content="http://gamss.co.il/esther.jpg">
     <link rel="icon" href="esther.jpg">
     <title>אסתר גאמס</title>
     <style>
