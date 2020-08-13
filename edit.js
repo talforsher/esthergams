@@ -185,13 +185,23 @@ function save() {
 <html lang="en">
 
 <head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-175299733-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-175299733-1');
+</script>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Buit with Tal Forsher CMS">
-    <meta name="keywords" content="Tal Forsher">
+    <meta name="description" content="מטפלת זוגית משפחתית מוסמכת ומדריכה מוסמכת להכשרת מטפלים">
+    <meta name="keywords" content="אסתר גאמס esther gamms family therapist">
     <meta name="robots" content="index, follow">
-    <link rel="icon" href="dksimulations.jpg">
-    <title>Tenerife Project</title>
+    <link rel="icon" href="esther.jpg">
+    <title>אסתר גאמס</title>
     <style>
         body {
             margin: 0;
